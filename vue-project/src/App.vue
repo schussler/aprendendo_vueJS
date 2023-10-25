@@ -1,7 +1,7 @@
 <template>
   <h1>site do DG🐶😒👌</h1>
   <cardComponent name="douglas" descricao="paiva" />
-  <cardComponent name="julia" descricao="santos" />
+  <cardComponent name="julia" descricao="silva" />
 </template> 
 
 <script>
